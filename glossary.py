@@ -1,0 +1,14 @@
+
+  - argument:  a value that is passed to a function for processing
+  - assign:  bind an object to a name
+  - exception:  Python's error condition, raised when there is a problem
+  - function:  a "routine" that performs
+  - initialize:  establish (or re-establish) a new variable through assignment
+  - object:  a value of a particular type (int, float, str, etc.)
+  - operand:  the values on either side of an operator
+  - operator:  an entity that processes its operands
+  - raise:  when Python signals an error
+  - return value:  a value that is returned from a function after processing is done
+  - statement:  a line or portion of code that accomplishes something
+  - type:  a classification of objects.  Every object has at ype
+  - variable:  an object assigned ("bound") to a name
